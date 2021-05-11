@@ -1,0 +1,48 @@
+.account-style{
+    max-width: 400px;
+    background-color: #26a514;
+}
+
+.account-style2{
+    max-width: 120px;
+}
+
+.fondo-account{
+    background-image: url(../../img/fondo_cancha.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 630px;
+}
+
+.card-account{
+    background: transparent;
+
+    padding-top: 3rem;
+    padding-bottom: 8rem;
+}
+.divider-text {
+    position: relative;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.divider-text span {
+    padding: 7px;
+    font-size: 12px;
+    position: relative;   
+    z-index: 2;
+}
+.divider-text:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    top: 55%;
+    left: 0;
+    z-index: 1;
+}
+
+.card-title{
+    font-family: 'Pacifico', cursive;
+    color: white;
+}

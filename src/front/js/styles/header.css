@@ -1,0 +1,14 @@
+
+/*Estilos Home y calendario selección*/
+
+.fondo_header{
+    background-image: url(../../img/fondo_header.jpg);background-repeat: no-repeat;background-size: cover;
+    min-height: 400px;
+    width: 100%;
+}
+  #reservePage:hover {
+    background-color: #ce9906;
+  }
+  
+.formulario {
+background: rgba(11, 13, 24, 0.6); }
